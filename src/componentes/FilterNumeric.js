@@ -50,7 +50,7 @@ function FilterNumeric() {
         data-testid="button-filter"
         onClick={ handleFilterClick }
       >
-        FILTAR
+        FILTRAR
 
       </button>
 
